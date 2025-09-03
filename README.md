@@ -1,6 +1,6 @@
 # dev-demo
 demo for github .
-# Techer
+# Teacher
 ABC
-#Student
+# Student
 Dev
